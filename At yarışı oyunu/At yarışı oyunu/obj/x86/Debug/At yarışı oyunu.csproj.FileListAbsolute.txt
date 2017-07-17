@@ -1,0 +1,23 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\At yarışı oyunu\bin\Debug\At yarışı oyunu.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\At yarışı oyunu\bin\Debug\At yarışı oyunu.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.pdb
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Form1.resources
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Properties.Resources.resources
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.csproj.GenerateResource.Cache
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\bin\Debug\At yarışı oyunu.exe
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\bin\Debug\At yarışı oyunu.pdb
+C:\Users\Samet\Documents\Visual Studio 2010\Projects\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Form2.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\bin\Debug\At yarışı oyunu.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\bin\Debug\At yarışı oyunu.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Form2.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At_yarışı_oyunu.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\At yarışı oyunu\At yarışı oyunu\obj\x86\Debug\At yarışı oyunu.pdb
